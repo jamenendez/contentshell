@@ -12,6 +12,16 @@ a {
 a:hover { text-decoration: underline; }
 a:visited { color: #649; }
 
+.imagen{
+    
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
 #rachel {
     display: block;
     width: 960px;

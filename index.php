@@ -1,9 +1,9 @@
-<?php require_once("admin/common.php"); ?>
+    <?php require_once("admin/common.php"); ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang['langcode'] ?>">
 <head>
 <meta charset="utf-8">
-<title>RACHEL - <?php echo $lang['home'] ?></title>
+<title>RACHELE - <?php echo $lang['home'] ?></title>
 <link rel="stylesheet" href="css/normalize-1.1.3.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/ui-lightness/jquery-ui-1.10.4.custom.min.css">
@@ -14,6 +14,7 @@
 
 <body>
 <div id="rachel">
+    <img  class="imagen" src="../art/escudo.jpg">
     <div id="adminnav">
     <a href="admin/modules.php"><?php echo $lang['admin'] ?></a> |
     </div>
